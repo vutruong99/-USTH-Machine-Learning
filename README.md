@@ -5,3 +5,4 @@
 ### Content:
 - Linear Regression
 - Gradient Descent
+- Logistic Regression
